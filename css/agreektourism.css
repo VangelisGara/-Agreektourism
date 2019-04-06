@@ -1,0 +1,96 @@
+.search-activity {
+    background-image: url("../public/assets/animals-countryside-domestic-animals-2050425.jpg");
+    height:100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+}
+
+.jumbotron {  
+    height:500px;
+    width:400px;
+    margin-left: 90px;
+    margin-top: 60px;
+    background-color:white;
+}
+
+.slides {
+    margin-left: 6%;
+    width: 73%;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2), 0 4px 6px 0 rgba(0, 0, 0, 0.19);
+}
+
+.activity-description {
+    margin: auto;
+    margin-left: 5%;
+}
+
+.activity-info{
+    margin-left: -140px;
+}
+
+.activity-info li{
+    margin-top: 1%;
+}
+
+.activity-about {
+    margin-left: -47px;
+}
+
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.map-container iframe{
+    left:90px;
+    top:0;
+    height:60%;
+    width:50%;
+    position:absolute;
+}
+
+.contact {
+    margin-left: -347px;
+    margin-top: 20%;
+}
+
+.agreeknavbar {
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 3px 0 rgba(0, 0, 0, 0.19);
+}
+
+.productSlides {
+    margin-left: 15%;
+    width: 45%;
+    box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 6px 0 rgba(0, 0, 0, 0.19);
+}
+
+.product-description {
+    margin-top: 2%;
+    margin-right: 18%;
+}
+
+.profilepic {
+    margin-left: 45%;
+    margin-top: 12%;
+    border-radius: 50%;
+    width: 26%;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+
+.farm-contact {
+    margin-left: -50px;
+    margin-top: 12%;
+}
+
+.filters{
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    margin-left: 5%;
+    margin-top: 7%;
+}
+
+.filter {
+    margin-top: 2%;
+    margin-left: 2%;
+}
